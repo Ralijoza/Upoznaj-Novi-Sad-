@@ -1,0 +1,11 @@
+Senka kad se prevuce misem neki tekst: Light blue 50% #00ccff   rgb(0, 204, 255)
+								hsl(192, 100%, 50%)
+
+.btn:hover{
+	#339966
+	rgb(51, 153, 102)
+	hsl(150, 50%, 40%)
+	
+	color: var(--lightblue);
+}
+
